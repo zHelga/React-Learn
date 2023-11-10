@@ -1,0 +1,10 @@
+.avatar {
+	width: 40px;
+	height: 40px;
+	background-color: burlywood;
+	border-radius: 50%;
+}
+.name {
+	color: #161616;
+	text-decoration: none;
+}
